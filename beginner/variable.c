@@ -1,17 +1,3 @@
-/*Declare variables for storing information about Sachin Tendulkar like Name,Nick Name,Runs scored in ODI,Batting average in ODI,ODI Matches
-
-Expected Output:
-
-Sachin Ramesh Tendulkar
-Little Master
-18426
-44.83
-463*/
-
-
-
-
-
 #include<stdio.h>
 main()
 {
